@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\bin\Debug\Busqueda en profundidad.exe.config
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\bin\Debug\Busqueda en profundidad.exe
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\bin\Debug\Busqueda en profundidad.pdb
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\obj\Debug\Busqueda en profundidad.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\obj\Debug\Busqueda en profundidad.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\obj\Debug\Busqueda en profundidad.exe
+C:\Users\erick\source\repos\Busqueda en profundidad\Busqueda en profundidad\obj\Debug\Busqueda en profundidad.pdb

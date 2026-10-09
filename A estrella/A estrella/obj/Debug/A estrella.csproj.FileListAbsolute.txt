@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\A estrella\A estrella\bin\Debug\A estrella.exe.config
+C:\Users\erick\source\repos\A estrella\A estrella\bin\Debug\A estrella.exe
+C:\Users\erick\source\repos\A estrella\A estrella\bin\Debug\A estrella.pdb
+C:\Users\erick\source\repos\A estrella\A estrella\obj\Debug\A estrella.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\A estrella\A estrella\obj\Debug\A estrella.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\A estrella\A estrella\obj\Debug\A estrella.exe
+C:\Users\erick\source\repos\A estrella\A estrella\obj\Debug\A estrella.pdb
